@@ -14,32 +14,22 @@ alt="Youtube Trailer" width="480" height="270" border="10" /></a>
 
 ---
 ## Development Team
-* Producer
-    - Zhaoyuan Sun
 
 * UI & UX Group
-    - Zezhi Xia
     - Qiuyun Li
     - Yifei Chen
+    
+* Enemy Group
+    - Weimu Song
+    - Zhaoyuan Sun
+    - Yuqi Zhou
 
 * Player Group
     - Curtis Wang
     - Song Luo
-    - Zezhi Xia
-
-* Enemy Group
-    - Zhaoyuan Sun
-    - Weimu Song
-    - Yuqi Zhou
-
-* Support Group
-    - Zhaoyuan Sun
-    - Yuqi Zhou
-    - Curtis Wang
 
 * Model Group
     - Weimu Song
-    - Zezhi Xia
     - Song Luo
 
 ---
